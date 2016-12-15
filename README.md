@@ -70,6 +70,7 @@ For example for the sample dataset it would be
 
 	./hitec S.aureusReads.fasta S.aureusCorrectedReads.fasta 2820462 1
 
+Sample data can be downloaded from [here](http://www.csd.uwo.ca/~ilie/HiTEC/Datasets.tar.gz) - S.aureus, genome length 2820462, error rate 1%
 ##CITE
 If you find HiTEC program useful, please cite the HiTEC paper:
 
